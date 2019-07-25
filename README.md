@@ -99,3 +99,8 @@ When using the `Class Definition` codegen option for an entity, you can immediat
     2. the managed object model
     3. the persistent store coordinator
     4. the persisting container
+
+
+
+## Other Resources
+* [Core Data with Swift 4 for Beginners](https://medium.com/xcblog/core-data-with-swift-4-for-beginners-1fc067cca707)
